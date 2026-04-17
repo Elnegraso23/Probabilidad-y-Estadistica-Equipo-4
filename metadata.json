@@ -1,6 +1,6 @@
 {
-  "name": "Stats-Regression-Lab",
-  "description": "Una presentación interactiva sobre regresión lineal simple y diagramas de dispersión para temas escolares.",
+  "name": "Stats-Viz-Lab",
+  "description": "Plataforma educativa interactiva diseñada para la visualización y análisis de Regresión Lineal Simple y Diagramas de Dispersión. Herramienta académica para el estudio de correlación estadística.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
