@@ -704,7 +704,7 @@ export default function Presentation() {
             </button>
           </div>
           <div className="text-center">
-            <p className="text-sm font-bold uppercase tracking-[0.3em] text-muted-foreground">Equipo 4 • 2024</p>
+            <p className="text-sm font-bold uppercase tracking-[0.3em] text-muted-foreground">Equipo 4 • 2026</p>
           </div>
         </div>
       </div>
